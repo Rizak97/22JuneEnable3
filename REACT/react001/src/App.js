@@ -1,12 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
-import pl from "./header.jsx";
+import Pl from "./header.jsx";
 
 function App() {
   return (
     
     <h1>
-      <pl />
+      <Pl />
     </h1>
     
 
