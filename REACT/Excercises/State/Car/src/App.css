@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+body {
+  display: flexbox;
+  justify-content: center;
+  align-content: center;
+  background-color: rgb(67, 63, 63);
+  max-width: 80%;
+  margin-left: 10%;
+}
+
+.comp {
+  border-style: solid;
+  color: rgb(207, 207, 2);
+  background-color: rgb(1, 29, 38);
+  border-color: rgb(53, 9, 2);
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+}
+.year {
+  margin-left: 0.6rem;
+}
